@@ -36,6 +36,7 @@ int main(int argc,char const *argv[]){
       }
     }
     //If stream not opened, displays error message.
+    //Commented for changes
     else{
       cout << "Failed to open the file." << endl;
     }
